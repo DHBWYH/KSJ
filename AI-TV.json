@@ -1,39 +1,39 @@
 {
-  "sites": [
+  “站点”: [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "公众号【爱TV吧】0402更新",
-      "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+      "钥匙": “drpy_js_豆瓣",
+      "名称": "公众号【爱电视吧】0402更新",
+      "类型": 3,
+      " api ": “https://jihulab . com/yydfys/yydf/-/raw/main/yydf/lib/drpy 2 . min . js“,
+      “分机“: “https://jihulab . com/yydfys/yydf/-/raw/main/yydf/lib/douban . js“
     },
     {
-      "key": " 在线┃直播1",
-      "name": "📺┃竞技┃直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "钥匙": "在线┃直播1",
+      "名称": "📺┃竞技┃直播",
+      "类型": 3,
+      " api ": “csp_Yj1211“,
+      "可搜索": 1,
+      “快速搜索”: 1,
+      “可过滤“: 1
     },
     {
-      "key": " 在线┃直播2",
-      "name": "📺┃网红┃直播",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
-      "ext": "http://alist.xn--z7x900a.live/JustLive.js",
-      "gridview": "0-0-H",
-      "style": {
-        "type": "rect",
-        "ratio": 1.68
+      "钥匙": "在线┃直播2",
+      "名称": "📺┃网红┃直播",
+      "类型": 3,
+      " api ": “http://a list . xn-z7x900a.live/ddrpy2.m.js",
+      “分机“: “http://a list . xn-z7x900a.live/JustLive.js",
+      “gridview”: “0-0-H”,
+      “风格”: {
+        "类型": “矩形“,
+        “比率”: 1.68
       }
     },
     {
-      "key": "cctv",
-      "name": "📺┃央视┃大全",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
+      "钥匙": “中央电视台”,
+      "名称": "📺┃央视┃大全",
+      "类型": 3,
+      " api ": “csp中央电视台“,
+      "可搜索": 0,
       "filterable": 0,
       "ext": "http://rihou.vip:88/hccx/央视大全.json",
       "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
@@ -335,7 +335,7 @@
       "type": 0,
       "playerType": 1,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/itvba/tv.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://diyp1.112114.xyz/",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -343,7 +343,7 @@
       "channels": [
         {
           "name": "live",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+          "epg": "https://diyp1.112114.xyz/",
           "urls": [
             "proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
           ]

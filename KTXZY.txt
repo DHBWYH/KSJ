@@ -23,21 +23,25 @@ CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 卫视直播,#genre#
+凤凰卫视,http://103.95.24.37:880/fhws.m3u8
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+
 凤凰香港,http://60.164.229.241:4040/udp/239.255.30.123:8231
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰新闻,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
-凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
 凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰资讯,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
-凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 鳳凰衛視中文,http://210.210.155.35/uq2663/h/h157/index2.m3u8
 鳳凰衛視中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 鳳凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+
+
+
+
 
 湖南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -160,6 +164,11 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 延边频道,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
+天水新闻综合,https://play.kankanlive.com/live/1698724188723989.m3u8
+凉山新闻综合,http://m3u8.channel.i0834.cn/nmip-media/channellive/channel114103/playlist.m3u8
+凉山彝族综合,http://m3u8.channel.i0834.cn/nmip-media/channellive/channel115044/playlist.m3u8
+
+
 湖北武汉,#genre#
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
@@ -178,21 +187,26 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd#http://59.175.226.142:280/gb28181/xwzh.m3u8
 
-咪咕IPV6,#genre#
-咪咕直播-1「IPV6」,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-咪咕直播-2「IPV6」,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
-咪咕直播-3「IPV6」,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-咪咕直播-4「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-咪咕直播-5「IPV6」,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-咪咕直播-6「IPV6」,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-咪咕直播-7「IPV6」,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-咪咕直播-8「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-咪咕直播-9「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-咪咕直播-10「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播-11「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播-12「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播-13「IPV6」,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕直播-14「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+IHOT,#genre#
+
+爱怀旧,http://125.70.163.227:8888/udp/239.93.42.21:5140
+爱喜剧,http://125.70.163.227:8888/udp/239.93.42.9:5140
+爱奇谈,http://125.70.163.227:8888/udp/239.93.42.22:5140
+爱科幻,http://125.70.163.227:8888/udp/239.93.42.10:5140
+爱院线,http://125.70.163.227:8888/udp/239.93.42.11:5140
+幸福剧场,http://125.70.163.227:8888/udp/239.93.42.30:5140
+爱谍战,http://125.70.163.227:8888/udp/239.93.42.14:5140
+爱经典,http://125.70.163.227:8888/udp/239.93.42.13:5140
+爱悬疑,http://125.70.163.227:8888/udp/239.93.42.12:5140
+爱青春,http://125.70.163.227:8888/udp/239.93.42.16:5140
+爱都市,http://125.70.163.227:8888/udp/239.93.42.15:5140
+少儿天地,http://125.70.163.227:8888/udp/239.93.42.34:5140
+爱幼教,http://125.70.163.227:8888/udp/239.93.42.17:5140
+爱玩具,http://125.70.163.227:8888/udp/239.93.42.18:5140
+爱动漫,http://125.70.163.227:8888/udp/239.93.42.23:5140
+求索频道,http://125.70.163.227:8888/udp/239.93.42.24:5140
+爱电竞,http://125.70.163.227:8888/udp/239.93.42.19:5140
+爱赛车,http://125.70.163.227:8888/udp/239.93.42.20:5140
 
 
 IPV6专区,#genre#
@@ -304,6 +318,7 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 熊猫频道,#genre#
+熊猫 频道,http://125.70.163.227:8888/udp/239.93.0.211:9148
 都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
 都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
 都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
